@@ -1,12 +1,16 @@
 # This is example for transfer with ethereaum
 
+install for example.
 ```bash
 sudo npm i make
 sudo npm i web3
 sudo npm i -g truffle
 sudo truffle compiler
 sudo truffle migrate
+```
 
+let's start
+```bash
 node 01_connect.js
 node 02_get_block.js
 node 03_get_transaction.js
